@@ -1,8 +1,8 @@
 # djangoProjects
 
-This is a CRUD application that I built to host ads. All of the data is stored in a MySQL database and video demo can be found [here](https://youtu.be/nUGVMTMHgD4)
+This is a CRUD application that I built to host ads. All of the data is stored in a MySQL database and video demo can be found [here](https://youtu.be/HfWgQYkrxOo).
 
-This application allows a user to login either locally or through social authentication using GitHub, 'favorite' ads, search for specific ads, and comment on specific ads.
+This application allows a user to login either locally or through social authentication using GitHub, 'favorite' ads, search for specific ads, and comment on specific ads. Additionally, the application is user authenticated, so another ser is unable to delete or edit another user's advertisement or comments.
 
 
 ## Pictures of the Application
